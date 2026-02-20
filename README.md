@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Masao 🚛 🤖
 
-<!--
-**masao-traffic-mobility/masao-traffic-mobility** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Logistics Specialist & Digital Practitioner (Non-Engineer)**
 
-Here are some ideas to get you started:
+12年以上のリムジンバス・大型車両の運転経験を持つ、物流現場の視点とデジタルを繋ぐ架け橋を目指す「非エンジニア」の実践者です。
+Windows 3.1時代からのPC愛好家であり、現在は「AI（AGI/シンギュラリティ）」と「個人の知的生産性」の融合に情熱を注いでいます。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 現在取り組んでいるプロジェクト
+
+### 🇯🇵 個人向け GovTech プロジェクト：「Poli-Notifier」
+落合陽一氏の「政党・企業によらない政治のデジタル化」の考え方をベースとした、個人向け給付金・補助金監視システムの構築。
+
+- **コンセプト**: オープンソースの政治基盤を活用し、自分に関連する法案の可決や、獲得可能な給付金・補助金を自動で通知。
+- **技術スタック**: Cursor / Obsidian / Python (AI支援コーディング)
+- **目標**: 非エンジニアながら、Cursor連携によるAI開発で複雑な行政情報を「自分事」として可視化する。
+
+---
+
+## 💼 専門経験
+
+### 🚍 リムジンバス運転手（現在） | 経験12年以上
+- **フィールド**: 東京国際空港（羽田空港）を拠点とした旅客輸送。
+- **活動内容**: 現場の視点から、バス業界の「2024年問題」を意識しつつ、インバウンド外国人旅行者に向けた情報をX（旧Twitter）で発信中。
+
+### 🏗 物流・倉庫スペシャリスト
+- 海コン（海上コンテナ）トレーラー運転手、および倉庫管理業務の経験。
+- 物流の現場実務に精通。
+
+---
+
+## 🧠 セカンドブレインとツール
+プログラミングの専門知識をAIで補完し、効率的なナレッジ管理を行っています。
+
+- **Obsidian**: 思考の整理と「第二の脳」の構築。
+- **Cursor**: AIネイティブなエディタ。非エンジニアとしての開発を支えるメインツール。
+- **Claude Code**: AIエージェントを活用した効率的な環境構築。
+
+---
+
+## 📫 Contact
+- **X (Twitter)**: [@masaoB4w43k](https://twitter.com/masaoB4w43k)
+- **Location**: Kawasaki, Kanagawa, Japan
