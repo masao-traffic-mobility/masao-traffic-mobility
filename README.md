@@ -47,3 +47,4 @@ Windows 3.1時代からのPC愛好家であり、現在は「AI（AGI/シンギ�
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+[![Twitter timeline](https://github-readme-twitter.p-p-p.pp.ua/api?id=masaoB4w43k)](https://twitter.com/masaoB4w43k)
