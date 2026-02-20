@@ -42,3 +42,8 @@ Windows 3.1時代からのPC愛好家であり、現在は「AI（AGI/シンギ�
 ## 📫 Contact
 - **X (Twitter)**: [@masaoB4w43k](https://twitter.com/masaoB4w43k)
 - **Location**: Kawasaki, Kanagawa, Japan
+- ### 🛠 使用ツール & スキル
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
